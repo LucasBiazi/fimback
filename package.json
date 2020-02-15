@@ -18,6 +18,6 @@
     "react-router": "^5.1.2",
     "react-router-dom": "^5.1.2",
     "routes": "^2.1.0",
-    "yarn": "^1.21.0"
+    "yarn": "^1.22.0"
   }
 }
